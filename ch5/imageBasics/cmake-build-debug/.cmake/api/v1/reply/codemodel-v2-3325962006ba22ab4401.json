@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "imageBasics",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "imageBasics::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-imageBasics-Debug-5b688c74b9bc0e95feee.json",
+					"name" : "imageBasics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "undistortImage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-undistortImage-Debug-4f7e678fa18ccd1e9968.json",
+					"name" : "undistortImage",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jinhemu/slam/SLAM/ch5/imageBasics/cmake-build-debug",
+		"source" : "/home/jinhemu/slam/SLAM/ch5/imageBasics"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
