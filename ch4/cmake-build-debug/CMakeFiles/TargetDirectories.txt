@@ -1,6 +1,0 @@
-/home/jinhemu/slam/SLAM/ch4/cmake-build-debug/CMakeFiles/useSophus.dir
-/home/jinhemu/slam/SLAM/ch4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jinhemu/slam/SLAM/ch4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/jinhemu/slam/SLAM/ch4/cmake-build-debug/example/CMakeFiles/trajectoryError.dir
-/home/jinhemu/slam/SLAM/ch4/cmake-build-debug/example/CMakeFiles/edit_cache.dir
-/home/jinhemu/slam/SLAM/ch4/cmake-build-debug/example/CMakeFiles/rebuild_cache.dir

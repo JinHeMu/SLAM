@@ -1,3 +1,0 @@
-/home/jinhemu/slam/SLAM/ch4/example/cmake-build-debug/CMakeFiles/trajectoryError.dir
-/home/jinhemu/slam/SLAM/ch4/example/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jinhemu/slam/SLAM/ch4/example/cmake-build-debug/CMakeFiles/rebuild_cache.dir

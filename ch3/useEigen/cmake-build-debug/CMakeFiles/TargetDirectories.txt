@@ -1,3 +1,0 @@
-/home/jinhemu/slam/SLAM/ch3/useEigen/cmake-build-debug/CMakeFiles/eitenMatrix.dir
-/home/jinhemu/slam/SLAM/ch3/useEigen/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jinhemu/slam/SLAM/ch3/useEigen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

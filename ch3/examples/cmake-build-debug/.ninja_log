@@ -1,5 +1,0 @@
-# ninja log v5
-2268	2358	1694847332098307549	coordinateTransform	e588950616bbd739
-2607	2807	1694855010580811093	plotTrajectory	c2bd5427f1f2d546
-1	2607	1694855010376863894	CMakeFiles/plotTrajectory.dir/plotTrajectory.cpp.o	e897c156cf15dd1c
-1	2268	1694847332006305988	CMakeFiles/coordinateTransform.dir/coordinateTransform.cpp.o	3c4cea881efa20d5

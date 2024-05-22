@@ -1,3 +1,0 @@
-/home/jinhemu/slam/SLAM/ch5/rgbd/cmake-build-debug/CMakeFiles/joinMap.dir
-/home/jinhemu/slam/SLAM/ch5/rgbd/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jinhemu/slam/SLAM/ch5/rgbd/cmake-build-debug/CMakeFiles/rebuild_cache.dir

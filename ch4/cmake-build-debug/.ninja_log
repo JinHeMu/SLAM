@@ -1,5 +1,0 @@
-# ninja log v5
-1	3795	1694854379487824386	CMakeFiles/useSophus.dir/useSophus.cpp.o	cc30219544e6001d
-1	3718	1694854803992100491	example/CMakeFiles/trajectoryError.dir/trajectoryError.cpp.o	545fdd23df28e3bb
-3795	4035	1694854379731833222	useSophus	9c43ee9fc639e0c4
-5624	5843	1686400606666053209	usesophus	daf3c79b9cf96231

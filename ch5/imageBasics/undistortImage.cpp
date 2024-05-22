@@ -6,7 +6,7 @@
 
 using namespace std;
 
-string image_file = "./distorted.png";
+string image_file = "/home/jinhemu/slam/SLAM/ch5/imageBasics/ubuntu.png";
 
 int main(int arvc, char **argv)
 {
